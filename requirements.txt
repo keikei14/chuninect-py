@@ -1,0 +1,5 @@
+comtypes==1.4.10
+numpy==2.2.4
+pygame==2.6.1
+pykinect2 @ git+https://github.com/JaeggiD/PyKinect2@b0e786a1e93fc3da7abe1bb65d6e91e30d09e1f1
+pywin32==310
